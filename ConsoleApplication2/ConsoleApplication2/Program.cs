@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("hej");
             Console.WriteLine("Hej på dig!");
+            Console.WriteLine();
         }
     }
 }
